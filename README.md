@@ -37,7 +37,6 @@
 <br/><br/>
 
 <div align="center">
-  <h3>Con qué trabajo</h3>
 
   <p>
     <sub><b>LENGUAJES & WEB</b></sub><br/><br/>
