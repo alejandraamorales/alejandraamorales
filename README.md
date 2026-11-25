@@ -1,60 +1,77 @@
-<!-- BANNER ROSITA DE PROGRAMACIÓN -->
+<!-- CABECERA ROSITA + ANIMACIÓN DE CÓDIGO -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f43f5e,50:ec4899,100:f472b6&height=210&section=header&text=%3C%20Alejandra%20Morales%20%2F%3E&fontSize=38&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Desarrolladora%20de%20Aplicaciones%20Multiplataforma%20%7C%202º%20DAM&descAlignY=58&descSize=16" width="100%" />
-</div>
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:f43f5e,50:ec4899,100:f472b6&height=200&section=header&text=Alejandra%20Morales&fontSize=42&fontColor=ffffff&fontAlign=65&fontAlignY=38&desc=%3C%202º%20DAM%20%7C%20Málaga%20%2F%3E&descAlign=65&descAlignY=60&descSize=17" width="100%" />
 
-<!-- BOTONES DE CONTACTO -->
-<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=EC4899&center=true&vCenter=true&width=600&lines=Desarrolladora+de+Aplicaciones+Multiplataforma;Apps+Android+%C2%B7+Backend+%C2%B7+Bases+de+Datos;Software+bien+estructurado+y+funcional" alt="Typing SVG" />
+  </a>
+
+  <br/>
+
   <a href="https://www.linkedin.com/in/alejandra-morales-devreese/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-EC4899?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  &nbsp;
   <a href="mailto:amoralesdevreese@gmail.com">
     <img src="https://img.shields.io/badge/amoralesdevreese@gmail.com-F472B6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/alejandraamorales" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-@alejandraamorales-1F2937?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </div>
 
 <br/>
 
-### 👩‍💻 Sobre mí
-Desarrolladora de Aplicaciones Multiplataforma en formación en Málaga. Me enfoco en construir software bien estructurado, desde la arquitectura de bases de datos y la lógica de negocio hasta interfaces móviles y web funcionales.
-
-* 🔭 **Actualmente trabajando en:** [Yokai Infection](https://github.com/mikeaprilee/YokaiInfectionV2) (App Android con persistencia local en SQLite).
-* 🌱 **Aprendiendo y profundizando en:** Desarrollo móvil en Android (Kotlin/Java), arquitectura Backend y gestión de bases de datos.
-* 💬 **Pregúntame sobre:** Java, SQL (PL/SQL, MySQL, SQLite), Android Studio, HTML5, CSS3 y Odoo ERP.
-
----
-
-### ✨ Lenguajes y Herramientas
-
+<!-- SOBRE MÍ -->
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,kotlin,js,html,css,mysql,sqlite,androidstudio,vscode,git,github,linux&theme=light" alt="Tech Stack" />
+  <h3>Sobre mí</h3>
+  <p width="80%">
+    Desarrolladora de Aplicaciones Multiplataforma en Málaga. Me enfoco en construir software bien estructurado, desde la arquitectura de bases de datos y la lógica de negocio hasta interfaces móviles y web funcionales.
+  </p>
 </div>
 
-<p align="center">
-  <sub>Además de experiencia práctica con <b>Oracle PL/SQL</b>, <b>NetBeans</b> y <b>Odoo ERP</b>.</sub>
-</p>
+* Actualmente estoy trabajando en **[Yokai Infection](https://github.com/mikeaprilee/YokaiInfectionV2)**
+* Estoy aprendiendo **Desarrollo de aplicaciones móviles en Android (Kotlin/Java), arquitectura Backend y gestión de bases de datos**
 
----
+<br/>
 
-### 💻 Proyectos Destacados
-
-| Proyecto | Descripción | Tecnologías | Enlace |
-| :--- | :--- | :--- | :--- |
-| **Yokai Infection** | Aplicación Android con catálogo dinámico de personajes en cuadrícula, modelado de datos y persistencia en SQLite. | `Java` `Android Studio` `SQLite` | [Ver repositorio →](https://github.com/mikeaprilee/YokaiInfectionV2) |
-
----
-
-### 🌸 Estadísticas de GitHub
-
+<!-- STACK EN DOS COLUMNAS -->
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=alejandraamorales&show_icons=true&locale=es&title_color=ec4899&icon_color=f472b6&text_color=374151&bg_color=fff1f2&hide_border=true" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alejandraamorales&layout=compact&locale=es&title_color=ec4899&text_color=374151&bg_color=fff1f2&hide_border=true" />
+  <h3>Con qué trabajo</h3>
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <b>Lenguajes & Web</b><br/><br/>
+        <img src="https://skillicons.dev/icons?i=java,kotlin,js,html,css&theme=light" alt="Lenguajes" />
+      </td>
+      <td align="center" width="50%">
+        <b>Datos, Entornos & Sistemas</b><br/><br/>
+        <img src="https://skillicons.dev/icons?i=mysql,sqlite,androidstudio,vscode,git,github,linux&theme=light" alt="Herramientas" />
+        <br/><br/>
+        <img src="https://img.shields.io/badge/Oracle_PL%2FSQL-F80000?style=flat-square&logo=oracle&logoColor=white" />
+        <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=flat-square&logo=apachenetbeanside&logoColor=white" />
+        <img src="https://img.shields.io/badge/Odoo_ERP-714B67?style=flat-square&logo=odoo&logoColor=white" />
+      </td>
+    </tr>
+  </table>
 </div>
 
-<!-- BANNER INFERIOR -->
+<br/>
+
+<!-- PROYECTOS ESTILO FICHAS -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f43f5e,50:ec4899,100:f472b6&height=90&section=footer" width="100%" />
+  <h3>Mis proyectos</h3>
+</div>
+
+<table>
+  <tr>
+    <td width="100%">
+      <h4><a href="https://github.com/mikeaprilee/YokaiInfectionV2">Yokai Infection</a> &nbsp; <img src="https://img.shields.io/badge/Android-EC4899?style=flat-square" /> <img src="https://img.shields.io/badge/Java-F472B6?style=flat-square" /> <img src="https://img.shields.io/badge/SQLite-FB7185?style=flat-square" /></h4>
+      Aplicación móvil desarrollada en Android Studio con gestión de usuarios, catálogo interactivo de personajes y persistencia local mediante SQLite.
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- CIERRE -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f43f5e,50:ec4899,100:f472b6&height=80&section=footer" width="100%" />
 </div>
