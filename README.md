@@ -1,37 +1,60 @@
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=200&section=header&text=Alejandra%20Morales&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desarrolladora%20Multiplataforma%20|%20Estudiante%20de%202º%20DAM&descAlignY=58&descSize=16)
+<!-- BANNER ROSITA DE PROGRAMACIÓN -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f43f5e,50:ec4899,100:f472b6&height=210&section=header&text=%3C%20Alejandra%20Morales%20%2F%3E&fontSize=38&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Desarrolladora%20de%20Aplicaciones%20Multiplataforma%20%7C%202º%20DAM&descAlignY=58&descSize=16" width="100%" />
+</div>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandra-morales-devreese/)
-[![Email](https://img.shields.io/badge/Email-Contactar-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](amoralesdevreese@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Web%20Personal-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://alejandraamorales.github.io/portfolio/)
+<!-- BOTONES DE CONTACTO -->
+<div align="center">
+  <a href="https://www.linkedin.com/in/alejandra-morales-devreese/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-EC4899?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:amoralesdevreese@gmail.com">
+    <img src="https://img.shields.io/badge/amoralesdevreese@gmail.com-F472B6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/alejandraamorales" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-@alejandraamorales-1F2937?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</div>
 
-### Sobre mí
-Desarrolladora de Desarrollo de Aplicaciones Multiplataforma (DAM) en Málaga. Me enfoco en construir software bien estructurado, desde la arquitectura de bases de datos y la lógica de negocio hasta interfaces móviles y web funcionales.
+<br/>
 
-- **Objetivo actual:** Incorporarme a un equipo de desarrollo donde aportar en proyectos reales de **Backend**, **Apps Multiplataforma** o **Datos**.
-- **En el radar:** Inteligencia Artificial aplicada, Ciberseguridad y arquitectura de software.
+### 👩‍💻 Sobre mí
+Desarrolladora de Aplicaciones Multiplataforma en formación en Málaga. Me enfoco en construir software bien estructurado, desde la arquitectura de bases de datos y la lógica de negocio hasta interfaces móviles y web funcionales.
+
+* 🔭 **Actualmente trabajando en:** [Yokai Infection](https://github.com/mikeaprilee/YokaiInfectionV2) (App Android con persistencia local en SQLite).
+* 🌱 **Aprendiendo y profundizando en:** Desarrollo móvil en Android (Kotlin/Java), arquitectura Backend y gestión de bases de datos.
+* 💬 **Pregúntame sobre:** Java, SQL (PL/SQL, MySQL, SQLite), Android Studio, HTML5, CSS3 y Odoo ERP.
 
 ---
 
-### Stack Tecnológico
+### ✨ Lenguajes y Herramientas
 
-| Área | Tecnologías y Herramientas |
-| :--- | :--- |
-| **Lenguajes** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
-| **Web & UI** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
-| **Bases de Datos** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Oracle](https://img.shields.io/badge/PL%2FSQL-F80000?style=flat-square&logo=oracle&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) |
-| **Entornos & ERP** | ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Odoo](https://img.shields.io/badge/Odoo%20ERP-714B67?style=flat-square&logo=odoo&logoColor=white) |
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,kotlin,js,html,css,mysql,sqlite,androidstudio,vscode,git,github,linux&theme=light" alt="Tech Stack" />
+</div>
+
+<p align="center">
+  <sub>Además de experiencia práctica con <b>Oracle PL/SQL</b>, <b>NetBeans</b> y <b>Odoo ERP</b>.</sub>
+</p>
 
 ---
 
-### Proyectos Destacados
+### 💻 Proyectos Destacados
 
 | Proyecto | Descripción | Tecnologías | Enlace |
 | :--- | :--- | :--- | :--- |
-| **Yokai Infection** | App Android con catálogo dinámico en cuadrícula, modelado de personajes y persistencia local en SQLite. | `Java` `Android Studio` `SQLite` | [Ver repositorio](https://github.com/mikeaprilee/YokaiInfectionV2) |
+| **Yokai Infection** | Aplicación Android con catálogo dinámico de personajes en cuadrícula, modelado de datos y persistencia en SQLite. | `Java` `Android Studio` `SQLite` | [Ver repositorio →](https://github.com/mikeaprilee/YokaiInfectionV2) |
 
 ---
 
-### Actividad en GitHub
+### 🌸 Estadísticas de GitHub
 
-![Estadísticas](https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=tokyonight&hide_border=true)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO&layout=compact&theme=tokyonight&hide_border=true)
+<div align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=alejandraamorales&show_icons=true&locale=es&title_color=ec4899&icon_color=f472b6&text_color=374151&bg_color=fff1f2&hide_border=true" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alejandraamorales&layout=compact&locale=es&title_color=ec4899&text_color=374151&bg_color=fff1f2&hide_border=true" />
+</div>
+
+<!-- BANNER INFERIOR -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f43f5e,50:ec4899,100:f472b6&height=90&section=footer" width="100%" />
+</div>
