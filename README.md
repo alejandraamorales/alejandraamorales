@@ -30,9 +30,6 @@
 * Actualmente estoy trabajando en **[Yokai Infection](https://github.com/mikeaprilee/YokaiInfectionV2)**
 * Estoy aprendiendo **Desarrollo de aplicaciones móviles en Android (Kotlin/Java), arquitectura Backend y gestión de bases de datos**
 
-<br/>
-
-<img src="https://img.shields.io/badge/%E2%9C%A6_CON_QU%C3%89_TRABAJO-18181B?style=for-the-badge&labelColor=EC4899" alt="Con qué trabajo" />
 
 <br/><br/>
 
