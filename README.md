@@ -36,36 +36,29 @@
 
 <br/><br/>
 
-<table>
-  <tr>
-    <td align="center" width="700">
-      <img src="https://img.shields.io/badge/01_%2F%2F_CORE_%26_DESARROLLO_WEB-F43F5E?style=flat-square&logo=code&logoColor=white" alt="Core y Desarrollo Web" />
-      <br/><br/>
-      <img src="https://skillicons.dev/icons?i=java,kotlin,js,html,css&theme=light" alt="Lenguajes" height="46" />
-      <br/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="700">
-      <img src="https://img.shields.io/badge/02_%2F%2F_DATOS_%26_ENTORNOS_DE_TRABAJO-EC4899?style=flat-square&logo=databricks&logoColor=white" alt="Datos y Entornos" />
-      <br/><br/>
-      <img src="https://skillicons.dev/icons?i=mysql,sqlite,androidstudio,vscode,git,github,linux&theme=light" alt="Herramientas" height="46" />
-      <br/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="700">
-      <img src="https://img.shields.io/badge/03_%2F%2F_SISTEMAS_%26_GESTI%C3%93N_EMPRESARIAL-F472B6?style=flat-square&logo=buffer&logoColor=white" alt="Sistemas y Gestión" />
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Oracle_PL%2FSQL-18181B?style=for-the-badge&logo=oracle&logoColor=F80000" height="30" />
-      &nbsp;
-      <img src="https://img.shields.io/badge/NetBeans-18181B?style=for-the-badge&logo=apachenetbeanside&logoColor=1B6AC6" height="30" />
-      &nbsp;
-      <img src="https://img.shields.io/badge/Odoo_ERP-18181B?style=for-the-badge&logo=odoo&logoColor=EC4899" height="30" />
-      <br/>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <h3>Con qué trabajo</h3>
+
+  <p>
+    <sub><b>LENGUAJES & WEB</b></sub><br/><br/>
+    <img src="https://skillicons.dev/icons?i=java,kotlin,js,html,css&theme=light" alt="Lenguajes y Web" />
+  </p>
+
+  <br/>
+
+  <p>
+    <sub><b>DATOS, ENTORNOS & SISTEMAS</b></sub><br/><br/>
+    <img src="https://skillicons.dev/icons?i=mysql,sqlite,androidstudio,vscode,git,github,linux&theme=light" alt="Datos, Entornos y Sistemas" />
+  </p>
+
+  <br/>
+
+  <p>
+    <img src="https://img.shields.io/badge/Oracle_PL%2FSQL-18181B?style=flat-square&logo=oracle&logoColor=F80000" alt="Oracle PL/SQL" />
+    <img src="https://img.shields.io/badge/NetBeans-18181B?style=flat-square&logo=apachenetbeanside&logoColor=1B6AC6" alt="NetBeans" />
+    <img src="https://img.shields.io/badge/Odoo_ERP-18181B?style=flat-square&logo=odoo&logoColor=EC4899" alt="Odoo ERP" />
+  </p>
+</div>
 
 <br/>
 
