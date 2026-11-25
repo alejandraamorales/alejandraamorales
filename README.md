@@ -1,6 +1,6 @@
 <!-- CABECERA ROSITA + ANIMACIÓN DE CÓDIGO -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f43f5e,50:ec4899,100:f472b6&height=200&section=header&text=Alejandra%20Morales&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=%3C%202%C2%BA%20DAM%20%7C%20M%C3%A1laga%20%2F%3E&descAlignY=58&descSize=17" width="100%" />>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f43f5e,50:ec4899,100:f472b6&height=200&section=header&text=Alejandra%20Morales&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=%3C%202%C2%BA%20DAM%20%7C%20M%C3%A1laga%20%2F%3E&descAlignY=58&descSize=17" width="100%" />
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=EC4899&center=true&vCenter=true&width=600&lines=Desarrolladora+de+Aplicaciones+Multiplataforma;Apps+Android+%C2%B7+Backend+%C2%B7+Bases+de+Datos;Software+bien+estructurado+y+funcional" alt="Typing SVG" />
