@@ -32,25 +32,34 @@
 
 <br/>
 
-<!-- STACK EN DOS COLUMNAS -->
+<!-- CON QUÉ TRABAJO (ESTILO FICHA CONTINUO HACIA ABAJO) -->
 <div align="center">
   <h3>Con qué trabajo</h3>
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <b>Lenguajes & Web</b><br/><br/>
-        <img src="https://skillicons.dev/icons?i=java,kotlin,js,html,css&theme=light" alt="Lenguajes" />
-      </td>
-      <td align="center" width="50%">
-        <b>Datos, Entornos & Sistemas</b><br/><br/>
-        <img src="https://skillicons.dev/icons?i=mysql,sqlite,androidstudio,vscode,git,github,linux&theme=light" alt="Herramientas" />
-        <br/><br/>
-        <img src="https://img.shields.io/badge/Oracle_PL%2FSQL-F80000?style=flat-square&logo=oracle&logoColor=white" />
-        <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=flat-square&logo=apachenetbeanside&logoColor=white" />
-        <img src="https://img.shields.io/badge/Odoo_ERP-714B67?style=flat-square&logo=odoo&logoColor=white" />
-      </td>
-    </tr>
-  </table>
+</div>
+
+<!-- Categoría: Desarrollo y Web -->
+<div align="center" style="background: #111827; border: 1px solid #e11d48; border-radius: 12px; padding: 20px; margin: 15px 0;">
+  <span style="font-size: 1.1em; font-weight: bold; color: #f43f5e; font-family: monospace;">// LENGUAJES & WEB</span>
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=java,kotlin,js,html,css&theme=light" alt="Lenguajes" height="42" />
+</div>
+
+<!-- Categoría: Datos y Sistemas -->
+<div align="center" style="background: #111827; border: 1px solid #ec4899; border-radius: 12px; padding: 20px; margin: 15px 0;">
+  <span style="font-size: 1.1em; font-weight: bold; color: #ec4899; font-family: monospace;">// DATOS, SISTEMAS & ENTORNOS</span>
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,androidstudio,vscode,git,github,linux&theme=light" alt="Herramientas" height="42" />
+</div>
+
+<!-- Categoría: Tecnologías Adicionales -->
+<div align="center" style="background: #111827; border: 1px solid #f472b6; border-radius: 12px; padding: 20px; margin: 15px 0;">
+  <span style="font-size: 1.1em; font-weight: bold; color: #f472b6; font-family: monospace;">// OTRAS TECNOLOGÍAS</span>
+  <br/><br/>
+  <a href="https://www.oracle.com/" target="_blank"><img src="https://img.shields.io/badge/Oracle_PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white" height="28" /></a>
+  &nbsp;
+  <a href="https://netbeans.apache.org/" target="_blank"><img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white" height="28" /></a>
+  &nbsp;
+  <a href="https://www.odoo.com/" target="_blank"><img src="https://img.shields.io/badge/Odoo_ERP-714B67?style=for-the-badge&logo=odoo&logoColor=white" height="28" /></a>
 </div>
 
 <br/>
