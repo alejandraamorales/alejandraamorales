@@ -32,35 +32,40 @@
 
 <br/>
 
-<!-- CON QUÉ TRABAJO (ESTILO FICHA CONTINUO HACIA ABAJO) -->
-<div align="center">
-  <h3>Con qué trabajo</h3>
-</div>
+<img src="https://img.shields.io/badge/%E2%9C%A6_CON_QU%C3%89_TRABAJO-18181B?style=for-the-badge&labelColor=EC4899" alt="Con qué trabajo" />
 
-<!-- Categoría: Desarrollo y Web -->
-<div align="center" style="background: #111827; border: 1px solid #e11d48; border-radius: 12px; padding: 20px; margin: 15px 0;">
-  <span style="font-size: 1.1em; font-weight: bold; color: #f43f5e; font-family: monospace;">// LENGUAJES & WEB</span>
-  <br/><br/>
-  <img src="https://skillicons.dev/icons?i=java,kotlin,js,html,css&theme=light" alt="Lenguajes" height="42" />
-</div>
+<br/><br/>
 
-<!-- Categoría: Datos y Sistemas -->
-<div align="center" style="background: #111827; border: 1px solid #ec4899; border-radius: 12px; padding: 20px; margin: 15px 0;">
-  <span style="font-size: 1.1em; font-weight: bold; color: #ec4899; font-family: monospace;">// DATOS, SISTEMAS & ENTORNOS</span>
-  <br/><br/>
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite,androidstudio,vscode,git,github,linux&theme=light" alt="Herramientas" height="42" />
-</div>
-
-<!-- Categoría: Tecnologías Adicionales -->
-<div align="center" style="background: #111827; border: 1px solid #f472b6; border-radius: 12px; padding: 20px; margin: 15px 0;">
-  <span style="font-size: 1.1em; font-weight: bold; color: #f472b6; font-family: monospace;">// OTRAS TECNOLOGÍAS</span>
-  <br/><br/>
-  <a href="https://www.oracle.com/" target="_blank"><img src="https://img.shields.io/badge/Oracle_PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white" height="28" /></a>
-  &nbsp;
-  <a href="https://netbeans.apache.org/" target="_blank"><img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white" height="28" /></a>
-  &nbsp;
-  <a href="https://www.odoo.com/" target="_blank"><img src="https://img.shields.io/badge/Odoo_ERP-714B67?style=for-the-badge&logo=odoo&logoColor=white" height="28" /></a>
-</div>
+<table>
+  <tr>
+    <td align="center" width="700">
+      <img src="https://img.shields.io/badge/01_%2F%2F_CORE_%26_DESARROLLO_WEB-F43F5E?style=flat-square&logo=code&logoColor=white" alt="Core y Desarrollo Web" />
+      <br/><br/>
+      <img src="https://skillicons.dev/icons?i=java,kotlin,js,html,css&theme=light" alt="Lenguajes" height="46" />
+      <br/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="700">
+      <img src="https://img.shields.io/badge/02_%2F%2F_DATOS_%26_ENTORNOS_DE_TRABAJO-EC4899?style=flat-square&logo=databricks&logoColor=white" alt="Datos y Entornos" />
+      <br/><br/>
+      <img src="https://skillicons.dev/icons?i=mysql,sqlite,androidstudio,vscode,git,github,linux&theme=light" alt="Herramientas" height="46" />
+      <br/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="700">
+      <img src="https://img.shields.io/badge/03_%2F%2F_SISTEMAS_%26_GESTI%C3%93N_EMPRESARIAL-F472B6?style=flat-square&logo=buffer&logoColor=white" alt="Sistemas y Gestión" />
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Oracle_PL%2FSQL-18181B?style=for-the-badge&logo=oracle&logoColor=F80000" height="30" />
+      &nbsp;
+      <img src="https://img.shields.io/badge/NetBeans-18181B?style=for-the-badge&logo=apachenetbeanside&logoColor=1B6AC6" height="30" />
+      &nbsp;
+      <img src="https://img.shields.io/badge/Odoo_ERP-18181B?style=for-the-badge&logo=odoo&logoColor=EC4899" height="30" />
+      <br/>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
